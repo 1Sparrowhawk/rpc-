@@ -4,12 +4,12 @@
   "description": "Discord RPC",
   "main": "index.js",
   "dependencies": {
-    "discord-rpc": "git+https://github.com/djs/discord-rpc.git"
+    "discord-rpc": "git+https://github.com/1Sparrowhawk/rpc-.git"
   },
   "devDependencies": {},
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "Chadoxi",
+  "author": "Sραrrσωhαωκ#0001",
   "license": "ISC"
 }
