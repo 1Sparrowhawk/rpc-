@@ -4,13 +4,13 @@ client.on('ready', () => {
         client.request('SET_ACTIVITY', {
             pid: process.pid,
             activity: {
-                details: "「☯」ᴋᴜʀᴏ ꜰᴜᴊɪɴᴀᴍɪ",
+                details: "loneliness",
                 assets: {
-                    large_image: "lovekuro",
-                    large_text: "Sραrrσωhαωκ x ᴋᴜʀᴏ ꜰᴜᴊɪɴᴀᴍɪ"
+                    large_image: "alone",
+                    large_text: "here we go again"
                 },
-                buttons: [{ label: "Dedicated to my lover", url: "https://discord.com/api/oauth2/authorize?client_id=764449386708467733&permissions=8&scope=bot" },
-                    { label: "ᴋᴜʀᴏ is mine", url: "https://discord.com/api/oauth2/authorize?client_id=801976251525890158&permissions=8&scope=botions=8&scope=bot" }
+                buttons: [{ label: "i am", url: "https://discord.com/api/oauth2/authorize?client_id=764449386708467733&permissions=8&scope=bot" },
+                    { label: "dead inside", url: "https://discord.com/api/oauth2/authorize?client_id=801976251525890158&permissions=8&scope=botions=8&scope=bot" }
                 ]
             },
         })
